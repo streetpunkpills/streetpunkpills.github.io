@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Street Punk Pills
-tagline: Your Link to TheVerse
+tagline: Your Link to The Verse
 
 author:
   name: Street Punk Pills
