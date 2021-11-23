@@ -22,10 +22,10 @@ author:
   twitter: streetpunkpills
   
   
-include: ['_pages']
+#include: ['_pages']
   
-layout: post
-permalink: /:categories/:title/
+#layout: post
+#permalink: /:categories/:title/
 
 url: http://www.streetpunkpills.com
 
