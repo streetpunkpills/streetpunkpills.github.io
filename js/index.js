@@ -18,8 +18,9 @@
     "Punk",
     "Pills", 
     "Street Punk Pills",
-    "Street Punk Pills Your link to TheVerse",
-    "Street Punk Pills A collection of 10,000 + 103 unique blended pills fusing Past, Present, and Future",
+    "Street Punk Pills your link to The Verse",
+    "The Street Punk Pills a collection of 10,000 + 103 unique blended pills fusing Past, Present, and Future",
+    "The Street Punk Pills fuse ingredients from Past, Present, and Future",  
     "The Street Punk Pills promotes the meta-well-being of Punks",
     "The Street Punk Pills promotes the meta-well-being of Apes",
     "The Street Punk Pills promotes the meta-well-being of Cats",
@@ -30,9 +31,8 @@
     "The Street Punk Pills promotes the meta-well-being of Mutants", 
     "The Street Punk Pills promotes the meta-well-being of Doodles",
     "The Street Punk Pills promotes the meta-well-being of Lions",
-    "The Street Punk Pills promotes the meta-well-being of Doodles", 
     "The Street Punk Pills promotes the meta-well-being of Women", 
-    "The Street Punk Pills promotes the meta-well-being of Doodles Men and all cyber-living and non-living things.",
+    "The Street Punk Pills promotes the meta-well-being of Men and all cyber-living and non-living things.",
     "Let's face it: We All Need Pills!"
     ];
   
@@ -44,8 +44,8 @@
   jQuery("#typed").typed({
       strings: data,
       stringsstops: data_ss,
-      startDelay: 3500,
-      typeSpeed: 130
+      startDelay: 1500,
+      typeSpeed: 150
   });
   
 })();
